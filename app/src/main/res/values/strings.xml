@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FilesCompare</string>
+    <string name="select_files_to_compare">Please select files to compare</string>
+    <string name="file_saved">New Generated file saved.</string>
+    <string name="mail_body">Please find the attached file to check extra data.</string>
+    <string name="sending_email">Sending email&#8230;</string>
+    <string name="compare_files">Compare Files</string>
+    <string name="pick_text_file_1">Pick text File 1</string>
+    <string name="pick_text_file_2">Pick text File 2</string>
+    <string name="send_file">Send File</string>
+    <string name="compare_files_to_send">Please generate compared file to send.</string>
+</resources>
